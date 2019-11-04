@@ -21,5 +21,5 @@ All dependencies you can find at requirement.txt and install with:
 `pip install -r requirements.txt`
 
 
-### Image Classifi
-For building image classifier model we used Keras with transfer learning (ImageNet) + data augentation and train it with Kaggle dataset. Please, visit https://www.kaggle.com/mitkir/cat-dog-classifier-using-vgg16-tl-da for this purpose.
+### Image Classifier Model
+For building image classifier model we used Keras VGG16 with transfer learning (ImageNet) + data augentation and train it with Kaggle dataset. Please, visit https://www.kaggle.com/mitkir/cat-dog-classifier-using-vgg16-tl-da for this purpose.
