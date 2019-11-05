@@ -6,15 +6,15 @@ A simple implementation for image classifier web application with Keras and Flas
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 1. Clone this repository with Git Large File Storage(LFS) `git lfs clone https://github.com/mitkir/keras-flask-image-classifier`
 2. Open project's directory `cd keras-flask-image-classifier`
-3. Run application `python application.py`
-4. Open `http://127.0.0.1:5000/` on your browser
-5. Click the file select button and select one of the test images
+3. Install all necessary dependencies `pip install -r requirements.txt`
+4. Run application `python application.py`
+5. Open `http://127.0.0.1:5000/` on your browser
+6. Click the file select button and select one of the test images
 
 
 ### Prerequisites
 The application requres some external libraries to run (flask-1.1.1, pillow-6.2.1, tensorflow-2.0.0, keras-2.3.1, numpy-1.17.3, h5py-2.10.0).
-All dependencies you can find at requirement.txt and install with:
-`pip install -r requirements.txt`
+All dependencies you can find at requirement.txt and install it.
 
 
 ### Image Classifier Model
