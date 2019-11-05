@@ -13,7 +13,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 
 ### Prerequisites
-The application requres some external libraries to run (json-0.8.5, flask-1.1.1, pillow-6.2.1, tensorflow-2.0.0, keras-2.3.1, numpy-1.17.3, h5py-2.10.0).
+The application requres some external libraries to run (flask-1.1.1, pillow-6.2.1, tensorflow-2.0.0, keras-2.3.1, numpy-1.17.3, h5py-2.10.0).
 All dependencies you can find at requirement.txt and install it.
 
 
