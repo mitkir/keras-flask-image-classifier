@@ -4,9 +4,9 @@ A simple implementation for image classifier web application with Keras and Flas
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-1. Clone this repository
-2. `cd keras-flask-image-classifier`
-3. `python application.py`
+1. Clone this repository with Git Large File Storage(LFS) `git lfs clone https://github.com/mitkir/keras-flask-image-classifier`
+2. Open project's directory `cd keras-flask-image-classifier`
+3. Run application `python application.py`
 4. Open `http://127.0.0.1:5000/` on your browser
 5. Click the file select button and select one of the test images
 
