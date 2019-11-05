@@ -9,7 +9,7 @@ These instructions will get you a copy of the project up and running on your loc
 3. Install all necessary dependencies `pip install -r requirements.txt`
 4. Run application `python application.py`
 5. Open `http://127.0.0.1:5000/` on your browser
-6. Click the file select button and select one of the test images
+6. Click the file select button and select test image for classifier.
 
 
 ### Prerequisites
